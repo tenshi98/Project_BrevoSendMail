@@ -1,9 +1,6 @@
 #  BrevoSendMail
 ### Funcion para el envio de correos a traves del servicio Brevo
 
-
-
-
 Brevo es un servicio que permite externalizar la tarea de envío de correos, ya que en muchos casos los servidores de los clientes son puestos en lista negra debido a que son considerados máquinas de envío de spam (muchas veces suele ocurrir debido a que el cliente tiene un servidor del tipo compartido y no uno dedicado), por lo que las notificaciones que envía a través de email no llegan a los destinatarios. Brevo se encarga del envío del correo de forma segura, revisando internamente que éste no devuelva error por spam sin la intervención de quien contrato su servicio.
 
 Esta es una reimplementación del uso de su servicio en el entorno de PHP, básicamente es una forma mucho más fácil de implementar la librería de ellos en nuestros proyectos.
@@ -29,6 +26,7 @@ Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](L
 Puedes contactarte conmigo a traves de cualquier de los siguientes canales:
 - [Github](https://github.com/tenshi98)
 - [Linkedin](https://www.linkedin.com/in/victor-reyes-galvez/)
+- [Portafolio](https://tenshi98.github.io/portafolio/)
 - [Mi Web](https://web.digitalcreations.cl/)
 
 ## Contribuciones 🎁
